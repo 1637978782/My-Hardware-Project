@@ -9,10 +9,6 @@ markdown
 *   负责核心板的原理图设计和PCB Layout（使用Altium Designer）。
 *   完成硬件调试和测试。
 
-## 项目特点
-*   采用低功耗设计，待机电流<10uA。
-*   数据上传成功率 >99.5%。
-*   支持OTA在线升级。
 
 ## 文件结构
 *   SCH ：USB2_ETH_RTL8152_1V0.DSN
